@@ -4,7 +4,7 @@ Replicated page of the Japanese Women Leadership Initiative site with added web 
 
 Tools used: HTML CSS
 
-Link to project: https://hillarychau.netlify.app/
+Link to project: https://hillary-jwli.netlify.app/
 
 
 <img src="/images/jwli - Copy.PNG" alt="JWLI" style="height: 100px; width:100px;"/>
