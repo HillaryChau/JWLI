@@ -11,4 +11,4 @@ Link to project: https://hillary-jwli.netlify.app/
 
 
 Lesson Learned:
-This is one of my first css projects, that I have made. I used floatsto lay the content out and media queries for responsiveness for mobile, tablet and laptop use. 
+This is one of my first css projects, that I have made. I used floats to lay the content out and media queries for responsiveness for mobile, tablet and laptop use. 
